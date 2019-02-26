@@ -1,6 +1,7 @@
 # DiceGame
 
 This was based on these requirements:
+
 We’d like you to build two portions of our scoring rules for a little game. It’s a simple dice game, using 5 eight-sided dice. All the scoring categories are listed below. We need you to build two methods.
 
 The first method is a simple score method that takes the category and the roll and returns the score. An example might look like:
