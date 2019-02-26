@@ -1,0 +1,11 @@
+/Users/kawillis-mac/Development/Projects/CodeSample_DiceGame/CodeSample_DiceGame/bin/Debug/netcoreapp1.1/CodeSample_DiceGame.deps.json
+/Users/kawillis-mac/Development/Projects/CodeSample_DiceGame/CodeSample_DiceGame/bin/Debug/netcoreapp1.1/CodeSample_DiceGame.runtimeconfig.json
+/Users/kawillis-mac/Development/Projects/CodeSample_DiceGame/CodeSample_DiceGame/bin/Debug/netcoreapp1.1/CodeSample_DiceGame.runtimeconfig.dev.json
+/Users/kawillis-mac/Development/Projects/CodeSample_DiceGame/CodeSample_DiceGame/bin/Debug/netcoreapp1.1/CodeSample_DiceGame.dll
+/Users/kawillis-mac/Development/Projects/CodeSample_DiceGame/CodeSample_DiceGame/bin/Debug/netcoreapp1.1/CodeSample_DiceGame.pdb
+/Users/kawillis-mac/Development/Projects/CodeSample_DiceGame/CodeSample_DiceGame/obj/Debug/netcoreapp1.1/CodeSample_DiceGame.csproj.CoreCompileInputs.cache
+/Users/kawillis-mac/Development/Projects/CodeSample_DiceGame/CodeSample_DiceGame/obj/Debug/netcoreapp1.1/CodeSample_DiceGame.AssemblyInfo.cs
+/Users/kawillis-mac/Development/Projects/CodeSample_DiceGame/CodeSample_DiceGame/obj/Debug/netcoreapp1.1/CodeSample_DiceGame.dll
+/Users/kawillis-mac/Development/Projects/CodeSample_DiceGame/CodeSample_DiceGame/obj/Debug/netcoreapp1.1/CodeSample_DiceGame.pdb
+/Users/kawillis-mac/Development/Projects/CodeSample_DiceGame/CodeSample_DiceGame/obj/Debug/netcoreapp1.1/CodeSample_DiceGame.csprojAssemblyReference.cache
+/Users/kawillis-mac/Development/Projects/CodeSample_DiceGame/CodeSample_DiceGame/obj/Debug/netcoreapp1.1/CodeSample_DiceGame.AssemblyInfoInputs.cache

@@ -1,0 +1,17 @@
+/Users/kawillis-mac/Development/Projects/CodeSample_DiceGame/CodeSample_DiceGameTests/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/kawillis-mac/Development/Projects/CodeSample_DiceGame/CodeSample_DiceGameTests/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/Users/kawillis-mac/Development/Projects/CodeSample_DiceGame/CodeSample_DiceGameTests/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/Users/kawillis-mac/Development/Projects/CodeSample_DiceGame/CodeSample_DiceGameTests/bin/Debug/netcoreapp1.1/CodeSample_DiceGameTests.deps.json
+/Users/kawillis-mac/Development/Projects/CodeSample_DiceGame/CodeSample_DiceGameTests/bin/Debug/netcoreapp1.1/CodeSample_DiceGameTests.runtimeconfig.json
+/Users/kawillis-mac/Development/Projects/CodeSample_DiceGame/CodeSample_DiceGameTests/bin/Debug/netcoreapp1.1/CodeSample_DiceGameTests.runtimeconfig.dev.json
+/Users/kawillis-mac/Development/Projects/CodeSample_DiceGame/CodeSample_DiceGameTests/bin/Debug/netcoreapp1.1/CodeSample_DiceGameTests.dll
+/Users/kawillis-mac/Development/Projects/CodeSample_DiceGame/CodeSample_DiceGameTests/bin/Debug/netcoreapp1.1/CodeSample_DiceGameTests.pdb
+/Users/kawillis-mac/Development/Projects/CodeSample_DiceGame/CodeSample_DiceGameTests/obj/Debug/netcoreapp1.1/CodeSample_DiceGameTests.csproj.CoreCompileInputs.cache
+/Users/kawillis-mac/Development/Projects/CodeSample_DiceGame/CodeSample_DiceGameTests/obj/Debug/netcoreapp1.1/CodeSample_DiceGameTests.AssemblyInfo.cs
+/Users/kawillis-mac/Development/Projects/CodeSample_DiceGame/CodeSample_DiceGameTests/obj/Debug/netcoreapp1.1/CodeSample_DiceGameTests.dll
+/Users/kawillis-mac/Development/Projects/CodeSample_DiceGame/CodeSample_DiceGameTests/obj/Debug/netcoreapp1.1/CodeSample_DiceGameTests.pdb
+/Users/kawillis-mac/Development/Projects/CodeSample_DiceGame/CodeSample_DiceGameTests/bin/Debug/netcoreapp1.1/CodeSample_DiceGame.dll
+/Users/kawillis-mac/Development/Projects/CodeSample_DiceGame/CodeSample_DiceGameTests/bin/Debug/netcoreapp1.1/CodeSample_DiceGame.pdb
+/Users/kawillis-mac/Development/Projects/CodeSample_DiceGame/CodeSample_DiceGameTests/obj/Debug/netcoreapp1.1/CodeSample_DiceGameTests.csprojAssemblyReference.cache
+/Users/kawillis-mac/Development/Projects/CodeSample_DiceGame/CodeSample_DiceGameTests/obj/Debug/netcoreapp1.1/CodeSample_DiceGameTests.AssemblyInfoInputs.cache
+/Users/kawillis-mac/Development/Projects/CodeSample_DiceGame/CodeSample_DiceGameTests/obj/Debug/netcoreapp1.1/CodeSample_DiceGameTests.csproj.CopyComplete
